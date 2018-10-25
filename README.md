@@ -1,8 +1,8 @@
 # THP Semaine 4 Jour 4
 
-## Projet Usine :
+## Projet Airbnb :
 
-Enoncé : Les usines sont à la mode en ce moment, nous allons créer un site pour les usines. Nous allons créer un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
+Enoncé : faire une plateforme où des personnes pourraient promener les chiens, en échange de $€
 
 ## Sur Slack :tea: :
 
