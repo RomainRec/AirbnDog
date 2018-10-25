@@ -1,9 +1,5 @@
 # THP Semaine 4 Jour 4
 
-## Projet Airbnb :
-
-Enoncé : faire une plateforme où des personnes pourraient promener les chiens, en échange de $€
-
 ## Sur Slack :tea: :
 
 * Guillaume Pichot   slack/  @Guillaume :tropical_fish:
@@ -18,7 +14,10 @@ Enoncé : faire une plateforme où des personnes pourraient promener les chiens,
 * [Usine](https://github.com/zaydang/S4J4_Usine)
 * [Gossip project](https://github.com/Siriondil0/Gossip_project)
               
-                    
+## Projet Airbnb :
+
+Enoncé : faire une plateforme où des personnes pourraient promener les chiens, en échange de $€
+
 ## Etapes d'utilisation :
 
 Pour pouvoir profiter des gems, n'oublie pas un petit :
